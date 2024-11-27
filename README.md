@@ -1,0 +1,1 @@
+# my-manifest-for-dApp
